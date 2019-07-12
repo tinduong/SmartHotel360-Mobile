@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SmartHotel.Clients.Core.Services.Booking
 {
+// another test comment
     public class BookingService : IBookingService
     {
         readonly IRequestService requestService;
